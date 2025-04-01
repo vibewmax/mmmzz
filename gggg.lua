@@ -1,3 +1,5 @@
+local KeySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/vibewmax/mmmzz/refs/heads/main/gggg.lua"))()
+
 return function()
     local player = game:WaitForChild("Players").LocalPlayer
     local gui = Instance.new("ScreenGui")
