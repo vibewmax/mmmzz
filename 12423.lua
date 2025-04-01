@@ -9,7 +9,7 @@ local ValidKeys = {
     "ROBLOX123",
     "GAMEPASS",
     "PREMIUM2023",
-    "TESTKEY"
+    "1234"
 }
 
 -- Создаем главное окно
